@@ -1,4 +1,4 @@
-# 🧮 Java Scientific Calculator
+# Java Scientific Calculator
 
 A fully functional **Scientific Calculator** developed in Java. This application allows users to perform basic arithmetic as well as advanced mathematical operations with a clean and easy-to-use interface.
 
